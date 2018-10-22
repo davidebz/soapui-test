@@ -521,7 +521,7 @@
 						<con:request/>
 						<con:originalUri>http://ipchannels.integreen-life.bz.it/bluetooth/rest/access-token
 						</con:originalUri>
-						<con:credentials>
+						<con:assertion type="Valid HTTP Status Codes" id="20fe3898-3849-4ca8-9719-590550ec9b8c" name="Valid HTTP Status Codes"><con:configuration><codes>400</codes></con:configuration></con:assertion><con:credentials>
 							<con:authType>No Authorization</con:authType>
 						</con:credentials>
 						<con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
